@@ -22,11 +22,13 @@
 from classlib import Admin
 from classlib import Manager
 
-ivan = Admin('Ivan Lookyanow', 12, 3000)
-vasya = Manager('Vasya Pupkin', 20, 30)
+ivan = Admin('Ivan Lookyanow', 12, 5000)
+vasya = Manager('Vasya Pupkin', 20)
 
 ivan.show_job_name()
 vasya.show_job_name()
 
 name = ivan.new_show_job_name()
-print name  
+print name 
+print vasya.pay  
+print ivan.pay  
