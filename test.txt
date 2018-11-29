@@ -4,4 +4,3 @@ This line is from github editor
 
 new line for commit
 
-line added to fix someting and merge to master branch 
