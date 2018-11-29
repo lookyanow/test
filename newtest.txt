@@ -1,2 +1,2 @@
 New test 
-test message from user1
+test message from user2
